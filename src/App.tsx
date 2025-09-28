@@ -1,14 +1,12 @@
-import React from "react"
+
 import "./App.css"
 import forestImg from "./assets/aerial-view-of-dense-green-forest-canopy-with-rive.jpg";
 import {
-  MapPin,
   Satellite,
   Users,
   FileText,
   BarChart3,
   Shield,
-  Leaf,
   Globe,
   Cpu,
   Database,
